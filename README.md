@@ -212,7 +212,7 @@ Modify line 123.
 load = new LoadInst(switchVar->getType()->getElementType(), switchVar, "switchVar", loopEntry);
 ```
 
-line 239.
+Modify line 239.
 
 ```c
 INITIALIZE_PASS_DEPENDENCY(LowerSwitchLegacyPass)
